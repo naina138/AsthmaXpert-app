@@ -111,3 +111,6 @@ Contributions are welcome! If you have suggestions or find bugs, feel free to op
 
 ## 📄 License
 This project is for educational/research purposes. Please consult a medical professional for clinical diagnosis.
+**Developed by**: Naina  
+**Guided by**: Prof. Rohit Kumar  
+**Project Type**: B.Tech CSE 7th Semester Project 🎓
